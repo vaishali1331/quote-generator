@@ -7,7 +7,6 @@ body{
     min-height: 100vh;
     background-color: #ffffff;
     background-image: url('https://source.unsplash.com/user/erondu/1600x900');
-    background-blend-mode: lighten;
     font-family: Merriweather, sans-serif;
     font-weight: 700;
     text-align: center;
